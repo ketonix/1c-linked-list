@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* define link in the list */
 struct node {
     int id;
     struct node *next;
